@@ -1,7 +1,7 @@
 # crypto-dashboard
 
 
-# Bakground 
+## Background 
 Blockchain has become a hot topic these days. The most advanced use case is a cryptocurrency. It all stated with bitcoin and now the market has flooded. The reason behind this are the advantages it is able to provide. A few of these are listed belwo: 
 
 
@@ -18,8 +18,11 @@ Every day we encounter a lot of cryptocurrencies over the internet. But the orig
 4. 🅶🆁🅾🆆🅸🅽🅶: Cryptocurrencies that are flourishing like Bitcoin which is valued at $33,475.
 
 
+## Dahsboard Outlook
 
-# Dahsboard Details 
+![Capture](https://user-images.githubusercontent.com/30169240/126311672-699d9f82-6d64-4ca6-a084-21cbc0b0a3bb.PNG)
+
+## Dahsboard Details 
 An interactive dashboard is key to make the model results reach out to a larger non-tech audience. As cryptocurrency has been a great area of interest for people, I have created a prototype of a static dashboard for 5 cryptocurrencies. The dashboard has been created using two python libraries #Dash and #plotly
 1. #Bitcoin
 2. #BitcoinCash
@@ -27,13 +30,13 @@ An interactive dashboard is key to make the model results reach out to a larger 
 4. #Litecoin
 5. #Dogecoin
 
-# Main tech stack
+## Main tech stack
 1. Python - Dash 
 2. Heroku
 3. Git
 
 
-# Data Source
+## Data Source
 
 Data Source: Yahoo Finance
 Frequency: Daily
