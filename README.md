@@ -7,7 +7,7 @@ Blockchain has become a hot topic these days. The most advanced use case is a cr
 **2. Efficiency:** Less approval and processing time required for a transaction. And once the transaction is done it is immediately made available to all the participants.
 **3. Safe & Secure:** The ledger is tamper evident. It can't be changed by an attacker.
 
-Please refer to my [article] (https://jyotiyadav99111.medium.com/data-science-and-blockchain-a-bright-future-ahead-29bfe4fb2b56) for detailed explanation. 
+Please refer to my [article](https://jyotiyadav99111.medium.com/data-science-and-blockchain-a-bright-future-ahead-29bfe4fb2b56) for detailed explanation. 
 
 Every day we encounter a lot of cryptocurrencies over the internet. But the origin and behavior of these vary a lot. Therefore, it becomes essential to classify cryptocurrencies for a better understanding. Cryptocurrencies can be classified as:
 1. 🅼🅴🅼🅴 : Cryptocurrencies that are derived out of a meme. For example, Dogecoin is based out of Shiba Inu dog meme. Its value increased by 12000% and now it has crashed.
