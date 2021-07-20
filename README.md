@@ -34,6 +34,8 @@ An interactive dashboard is key to make the model results reach out to a larger 
 1. Python - Dash 
 2. Heroku
 3. Git
+4. CSS
+5. JavaScript
 
 
 ## Data Source
